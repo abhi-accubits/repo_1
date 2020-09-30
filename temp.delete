@@ -1,2 +1,5 @@
 hi, delete it
 sa
+abhi-nvr-quit/nfa-string-parser
+A nondeterministic finite automaton (NFA), or nondeterministic finite-state machine, does not need to obey these restrictions. In particular, every DFA is also an NFAjjj
+. Sometimes the term NFA is used in a narrower sense, referring to an NFA that is not a DFA, but not in this article. 
